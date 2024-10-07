@@ -1,4 +1,4 @@
-React Shopping Cart Application
+React Shopping Cart Application:
 Overview
 The React Shopping Cart Application is a user-friendly web app that allows users to browse products, add them to a shopping cart, and manage their selections in a seamless manner. Built using React and styled with Tailwind CSS, the app aims to provide an efficient and responsive shopping experience.
 
